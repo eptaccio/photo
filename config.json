@@ -17,12 +17,76 @@
       "path": "./photos/afk/Untitled-1.jpg"
     },
     {
+      "height": 2800,
+      "compressed_path": "./photos/afk/IMG_8142-edit.min.jpg",
+      "width": 2800,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8142-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8142-edit.jpg"
+    },
+    {
+      "height": 1045,
+      "compressed_path": "./photos/afk/IMG_8526-edit.min.jpg",
+      "width": 1045,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8526-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8526-edit.jpg"
+    },
+    {
+      "height": 2721,
+      "compressed_path": "./photos/afk/IMG_8655-edit.min.jpg",
+      "width": 2721,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8655-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8655-edit.jpg"
+    },
+    {
+      "height": 2579,
+      "compressed_path": "./photos/afk/IMG_8399-edit.min.jpg",
+      "width": 2579,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8399-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8399-edit.jpg"
+    },
+    {
+      "height": 3102,
+      "compressed_path": "./photos/afk/IMG_7472-edit.min.jpg",
+      "width": 3102,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_7472-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_7472-edit.jpg"
+    },
+    {
+      "height": 3371,
+      "compressed_path": "./photos/afk/IMG_8724-edit.min.jpg",
+      "width": 3371,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8724-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8724-edit.jpg"
+    },
+    {
+      "height": 2642,
+      "compressed_path": "./photos/afk/IMG_8655-edit_1.min.jpg",
+      "width": 2642,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8655-edit_1.placeholder.jpg",
+      "path": "./photos/afk/IMG_8655-edit_1.jpg"
+    },
+    {
       "height": 3043,
       "compressed_path": "./photos/afk/Clone Stamp.min.jpg",
       "width": 3043,
       "compressed": true,
       "placeholder_path": "./photos/afk/Clone Stamp.placeholder.jpg",
       "path": "./photos/afk/Clone Stamp.jpg"
+    },
+    {
+      "height": 2998,
+      "compressed_path": "./photos/afk/IMG_8674-edit.min.jpg",
+      "width": 2998,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8674-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8674-edit.jpg"
     }
   ]
 }
