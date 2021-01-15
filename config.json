@@ -65,12 +65,20 @@
       "path": "./photos/afk/IMG_8724-edit.jpg"
     },
     {
-      "height": 2642,
-      "compressed_path": "./photos/afk/IMG_8655-edit_1.min.jpg",
-      "width": 2642,
+      "height": 2889,
+      "compressed_path": "./photos/afk/IMG_8244-edit.min.jpg",
+      "width": 2889,
       "compressed": true,
-      "placeholder_path": "./photos/afk/IMG_8655-edit_1.placeholder.jpg",
-      "path": "./photos/afk/IMG_8655-edit_1.jpg"
+      "placeholder_path": "./photos/afk/IMG_8244-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8244-edit.jpg"
+    },
+    {
+      "height": 1776,
+      "compressed_path": "./photos/afk/IMG_8276-edit.min.jpg",
+      "width": 1776,
+      "compressed": true,
+      "placeholder_path": "./photos/afk/IMG_8276-edit.placeholder.jpg",
+      "path": "./photos/afk/IMG_8276-edit.jpg"
     },
     {
       "height": 3043,
